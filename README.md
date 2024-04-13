@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tarun6062
-- 👀 I’m interested in WEB DEVELOP, ML and AI
+- 👀 I’m interested in WEB DEVELOP, Data Analyst, ML and AI
 - 🌱 I’m currently learning NODEJS, 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me tarunreddy.seerapu@gmail.com
